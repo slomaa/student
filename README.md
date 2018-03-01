@@ -1,0 +1,2 @@
+# student
+mangament school 
